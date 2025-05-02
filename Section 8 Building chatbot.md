@@ -66,9 +66,9 @@ You must first generate the embeddings via OpenAI. Then when you create the vect
     vector_store = FAISS.from_texts(chunks, embeddings)
 ```
 
-## Lesson 22 Query, search, and output
+### Lesson 22 Query, search, and output
 
-### Add query box to UI
+#### Add query box to UI
 
 > [!Note]
 > The _temperature_ parameter controls the randomness of the generated text. Lower values (0 or 0.2) result in predictable and repetitive output. Higher values (0.8 or 2, for example) result in creative or random repsonses. As with most parameters, the correct value depends on your use case.

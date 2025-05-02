@@ -1,10 +1,10 @@
 # Module 1 Understanding Generative AI (GenAI)
 
-## Lesson 3
+## Lesson 3 Generative AI Intro
 
 **Generative Artificial Intelligence** (Gen AI) is a type of AI that can create content such as audio, images, text, code, etc. Generative AI is _new_ content. It is not extracted directly/word-for word from a repositiory, a form, etc.
 
-## Lesson 4
+## Lesson 4 AI, Machine Learning, and Deep Learning
 
 ![ai graphic](./assets/ai_graphic.png)
 
@@ -25,8 +25,6 @@ The neural network of deep learning uses many layers to process data to generate
 ![deep learning neural network model](./assets/deep_learning_neural_network_model.png)
 
 ## Lesson 5 Generative AI - Recap
-
-Conventional AI
 
 ![conventional ai](./assets/conventional_ai.png)
 

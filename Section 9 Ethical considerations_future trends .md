@@ -51,7 +51,7 @@ GenAI will advance and the adoption of it will increase. It is predicted that 80
 * Multimodal AI fusion for image, videos, and audio generation.
 * Responsible and regulated AI
 
-### Will GenAi replace human jobs?
+### Will GenAI replace human jobs?
  
  No, not entirely but
  * Skill shift and new job opportunities

@@ -82,13 +82,13 @@ The meaning, context, etc. of the embeddings is only know to the Transformer tha
 
     They went to the mall to eat ice 
 
-## Fine Tuning
+### Fine Tuning
 
 Fine tuning a LLM is the process of adapting a pre-trained foundation model to perform more specific tasks to cater to a particular domain more effectively.
 
 The pre-trained LLMs are generic. You have to fine tune them for use with your specific data set.
 
-### Fine tuning methods
+#### Fine tuning methods
 1. Self-supervised
 
      Give the LLM your domain specific training data. This is similar to how the foundation model is trained. 
@@ -104,7 +104,7 @@ The pre-trained LLMs are generic. You have to fine tune them for use with your s
     * I _drink_ ice cream. = 0
     * I _eat_ ice cream. = 10
 
-### Fine tuning is <u>not</u> about:
+#### Fine tuning is not about:
 
 * Creating intelligence from scratch. You are using a foundation model that is already trained on a large data set.
 
